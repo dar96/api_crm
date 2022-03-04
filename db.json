@@ -1,0 +1,28 @@
+{
+  "clientes": [
+    {
+      "nombre": "sasa",
+      "empresa": "nnnnn",
+      "email": "ccdscd@gmail.com",
+      "telefono": "9999999",
+      "notas": "",
+      "id": 3
+    },
+    {
+      "nombre": "sasa",
+      "empresa": "nnnnn",
+      "email": "ccdscd@gmail.com",
+      "telefono": "9999999",
+      "notas": "",
+      "id": 4
+    },
+    {
+      "nombre": "Pepe Act",
+      "empresa": "asjkbskjs",
+      "email": "ccdscd@gmail.com",
+      "telefono": "9999999",
+      "notas": "hjvjjhj",
+      "id": 5
+    }
+  ]
+}
